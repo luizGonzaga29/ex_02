@@ -1,0 +1,4 @@
+button:disabled,
+button[disabled] {
+	background-color: #3a3a3a;
+}
